@@ -1,0 +1,15 @@
+<!DOCTYPE RCC>
+<RCC>
+    <qresource prefix="images">
+        <file alias="terminal">img/terminal.png</file>
+        <file alias="setting">img/setting.png</file>
+        <file alias="refresh">img/refresh.png</file>
+        <file alias="icon">img/bb.ico</file>
+    </qresource>
+    <qresource prefix="audios">
+        <file alias="bb">audio/bb.wav</file>
+    </qresource>
+    <qresource prefix="fonts">
+        <file alias="hypixel">fonts/HYPixel11pxU-2.ttf</file>
+    </qresource>
+</RCC>
