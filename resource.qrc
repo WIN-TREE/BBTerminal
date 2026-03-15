@@ -2,8 +2,6 @@
 <RCC>
     <qresource prefix="images">
         <file alias="terminal">img/terminal.png</file>
-        <file alias="setting">img/setting.png</file>
-        <file alias="refresh">img/refresh.png</file>
         <file alias="icon">img/bb.ico</file>
     </qresource>
     <qresource prefix="audios">
